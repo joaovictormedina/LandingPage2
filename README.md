@@ -1,6 +1,3 @@
-Aqui está o README formatado para o projeto `landing-page-de-treinamento-versao-2`:
-
-```markdown
 # Landing Page de Treinamento - Versão 2
 
 ## Descrição
